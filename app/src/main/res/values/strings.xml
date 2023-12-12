@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FinalArteaga</string>
+    <string name="lblTitleLogin">Photo Albun</string>
+    <string name="lblEmail">Email</string>
+    <string name="lblPass">Password</string>
+    <string name="lblLogin">Login</string>
+    <string name="textBtnRegistrarProduct">Registrar Producto</string>
+    <string name="lblTitleRegistroProducto">Mantenimiento Producto</string>
+    <string name="hintIdProducto">ID</string>
+    <string name="hintDescripcion">Descripcion</string>
+    <string name="hintCantidad">Cantidad</string>
+    <string name="hintPrecio">Precio</string>
+</resources>

@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "203251670483",
+    "project_id": "esan2023-7933b",
+    "storage_bucket": "esan2023-7933b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203251670483:android:c6547abf561271053fe326",
+        "android_client_info": {
+          "package_name": "com.example.finalarteaga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD30ieFgRQtR7aFiWWxD2qDJzjOYZ11zGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203251670483:android:abcc4e174270c9be3fe326",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD30ieFgRQtR7aFiWWxD2qDJzjOYZ11zGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203251670483:android:ee2f9e32550001bd3fe326",
+        "android_client_info": {
+          "package_name": "com.example.practicapc2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD30ieFgRQtR7aFiWWxD2qDJzjOYZ11zGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
